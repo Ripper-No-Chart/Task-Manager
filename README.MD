@@ -19,6 +19,11 @@ Simple task manager in **Javascript**
 
 1) `npm start`
 
+## Screenshot
+
+![screenshot](https://github.com/Ripper-No-Chart/Task-Manager/blob/master/src/public/img/print.png)
+
 ### Author
 
 https://github.com/Ripper-No-Chart?tab=repositories
+
