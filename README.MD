@@ -1,6 +1,6 @@
 # MERN - Task Manager
 
-Simple task manager in **Javascript**
+Simple task manager in **React**
 
 # Dependencies
 
